@@ -1,0 +1,17 @@
+# SSR 公共共享账号
+
+
+## Alvin9999
+### [参考来源](https://github.com/Alvin9999/new-pac)
+
+### 订阅链接
+```
+正在添加
+```
+
+### SSR链接
+```
+ssr://dXMzLmZyZWU0NDQ0Lnh5ejo0NDM6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9YUhSMGNITTZMeTluYVhSb2RXSXVZMjl0TDBGc2RtbHVPVGs1T1M5dVpYY3RjR0ZqTDNkcGEya2dJT2EwbS1hZGllZWZ0bE5UVWc
+ssr://bGczLmZyZWU0NDQ0Lnh5ejo0NDM6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9YUhSMGNITTZMeTluYVhSb2RXSXVZMjl0TDBGc2RtbHVPVGs1T1M5dVpYY3RjR0ZqTDNkcGEya2dJT2EwbS1hZGllZWZ0akpUVTFJclZFeFRLME5oWkdSNQ
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@88.218.92.165:32244#https%3a%2f%2fgithub.com%2fAlvin9999%2fnew-pac%2fwiki+%e6%b4%9b%e6%9d%89%e7%9f%b63SS
+```
